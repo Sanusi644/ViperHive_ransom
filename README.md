@@ -2,8 +2,12 @@
 
 ViperHive Ransomware Tool
 
-Welcome to the ViperHive Ransomware Tool! This powerful tool is designed to encrypt your files and demand payment in exchange for the decryption key. If you want to use our tool, simply send an SMS to an199on@dnmx.cc with the word "Decrypt" in the message. We will send you instructions on how to download and use the tool.
+Welcome to the ViperHive Ransomware Tool! This powerful tool is designed to encrypt your files and demand payment in exchange for the decryption key. Before using this tool, please take note of the following:
 
-Please note that we do not condone illegal activities and this tool is intended for educational purposes only. The use of this tool for malicious purposes is strictly prohibited and may result in legal consequences.
+We do not condone illegal activities and this tool is intended for educational purposes only.
+The use of this tool for malicious purposes may result in legal consequences.
+Please contact law enforcement agencies or reputable cybersecurity experts if you become a victim of ransomware.
 
-You can reach us at an199on@dnmx.cc for any inquiries or concerns.
+To use our tool, simply send an SMS  to the provided email address (an199on@dnmx.cc). You will receive instructions on how to download and use the tool. Please do not share or distribute this tool with others as it can cause harm to individuals and organizations.
+
+Contact us at an199on@dnmx.cc if you have any questions or concerns.
